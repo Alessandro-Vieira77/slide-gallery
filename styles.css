@@ -147,7 +147,7 @@ body {
 }
 
 @media only screen and (width <= 768px) {
-  body {
+  .container {
     overflow: hidden;
   }
 
@@ -180,7 +180,7 @@ body {
   }
 
   .slide .item:nth-child(3) {
-    left: 69%;
+    left: 65%;
   }
 
   .slide .item:nth-child(4) {
@@ -189,7 +189,7 @@ body {
 }
 
 @media only screen and (width <= 640px) {
-  body {
+  .container {
     overflow: hidden;
   }
 
@@ -198,13 +198,16 @@ body {
   }
 
   .content .des {
-    font-size: 14px;
+    font-size: 12px;
+    max-width: 230px;
+
+    text-align: left;
   }
 
   .container .slide .item {
-    width: 100px;
-    height: 150px;
-    transform: translate(10%, -195%);
+    width: 70px;
+    height: 110px;
+    transform: translate(-40%, -220%);
   }
 
   .slide .item:nth-child(1),
@@ -215,5 +218,17 @@ body {
     border-radius: 0;
     width: 100%;
     height: 100%;
+  }
+
+  .slide .item:nth-child(3) {
+    left: 69%;
+  }
+
+  .slide .item:nth-child(4) {
+    left: calc(60% + 130px);
+  }
+
+  .slide .item:nth-child(5) {
+    left: calc(60% + 230px);
   }
 }
