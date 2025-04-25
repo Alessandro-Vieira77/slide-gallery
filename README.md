@@ -5,7 +5,7 @@ Um slider de imagem responsivo feito com **HTML**, **CSS** e **JavaScript** puro
 ## 🚀 Demonstração
 
 <!-- Substitua com um GIF ou link para a demo -->
-[slide-gallery](https://slide-gallery.vercel.app/)
+[Slide gallery](https://slide-gallery.vercel.app/)
 
 
 ---
@@ -30,4 +30,7 @@ Um slider de imagem responsivo feito com **HTML**, **CSS** e **JavaScript** puro
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/image-slider.git
+https://github.com/Alessandro-Vieira77/slide-gallery.git
+
+cd image-slider
+
