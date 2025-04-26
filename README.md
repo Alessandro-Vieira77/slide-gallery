@@ -13,15 +13,15 @@ A responsive image slider made with pure **HTML**, **CSS** and **JavaScript**. I
 ## ⚙️ Technologies used
 
 - HTML5
-- CSS3 (com transições e layout responsivo)
-- JavaScript (para navegação entre slides)
+- CSS3 (with transitions and responsive layout)
+- JavaScript (for navigation between slides)
 
 ---
 
 ## 🖼️ Features
 
-- Avançar e voltar entre imagens
-- Responsivo para diferentes tamanhos de tela
+- Move forward and backward between images
+- Responsive to different screen sizes
 
 ---
 
