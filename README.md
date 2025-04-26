@@ -1,8 +1,8 @@
-Um slider de imagem responsivo feito com **HTML**, **CSS** e **JavaScript** puro. Ideal para exibir uma galeria de fotos de forma interativa.
+A responsive image slider made with pure **HTML**, **CSS** and **JavaScript**. Ideal for displaying a photo gallery interactively.
 
 ---
 
-## 🚀 Demonstração
+## 🚀 Demo
 
 <!-- Substitua com um GIF ou link para a demo -->
 
@@ -10,7 +10,7 @@ Um slider de imagem responsivo feito com **HTML**, **CSS** e **JavaScript** puro
 
 ---
 
-## ⚙️ Tecnologias utilizadas
+## ⚙️ Technologies used
 
 - HTML5
 - CSS3 (com transições e layout responsivo)
@@ -18,16 +18,16 @@ Um slider de imagem responsivo feito com **HTML**, **CSS** e **JavaScript** puro
 
 ---
 
-## 🖼️ Funcionalidades
+## 🖼️ Features
 
 - Avançar e voltar entre imagens
 - Responsivo para diferentes tamanhos de tela
 
 ---
 
-## 📥 Como usar
+## 📥 How to use
 
-Clone o repositório:
+Clone the repository:
 
 ```bash
 git clone https://github.com/Alessandro-Vieira77/slide-gallery.git
