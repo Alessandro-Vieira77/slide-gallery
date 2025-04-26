@@ -10,7 +10,7 @@ Um slider de imagem responsivo feito com **HTML**, **CSS** e **JavaScript** puro
 
 ---
 
-## 🧰 Tecnologias utilizadas
+## ⚙️ Tecnologias utilizadas
 
 - HTML5
 - CSS3 (com transições e layout responsivo)
